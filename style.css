@@ -1,0 +1,64 @@
+
+
+            header{
+                color:tomato;
+                font-style:oblique;
+                font-size: xx-large;
+                text-align: center;
+            }
+            h1.list{
+                color:tomato;
+                font-style:oblique;
+                font-size:3rem;
+                text-align:center;
+            }
+            #inputfield{
+                border: black;
+                font-size: x-large;
+                padding-left: 1.5rem;
+                padding-top: 1rem;
+                background-color:snow;
+                border-radius: 1rem;
+                border-style:double;
+                padding-bottom: 1rem;
+                 }
+                 
+            #addtodo{
+                border-radius: 1rem;
+                background-color:rgb(166, 189, 212);
+                height: 3rem;
+                Width:5rem;
+
+            }
+            .finishbutton{
+                border-radius: 1rem;
+                padding-top: .7rem;
+                padding-bottom: 1.7rem;
+                background-color:rgb(166, 189, 212);
+                height: 2rem;
+                width:  6rem;
+                text-align:right;
+                }
+        
+
+            .todo{
+                margin-top: 25px;
+            }
+            .paragraph-styling{
+                font-style:oblique; 
+                font-size: xx-large;
+                color:rgb(12, 0, 0);
+                tab-size: 65px;
+                padding-left: 0.5rem;
+                padding-top: .5rem;
+                text-align: left;
+                border-width: 0.2rem;
+                border-style:ridge;
+                background-color:white;
+              
+            }
+
+           
+            body{
+                background-color:rgb(235, 234, 233);
+            }
